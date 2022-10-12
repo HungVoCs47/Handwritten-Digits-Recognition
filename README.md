@@ -1,24 +1,11 @@
 
-# Project Title
+# REAL-TIME HANDWRITTEN RECOGNITION
 
-A brief description of what this project does and who it's for
-
-
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet) 
 
 
-
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+## Overview
+Connecting multiple neurons and popular backpropagation algorithm to build a powerful Neural Network architecture to solve complex problem,
+to be more specific, Handwritten Recognition. Furthermore, OpenCV library is also applied for processing real-time Handwritten image in order to create data for the MLP model to predict the label (0-9) digits.
+## Demo
+![Recommendation App](https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/Screenshot%202022-10-12%20211355.png)
