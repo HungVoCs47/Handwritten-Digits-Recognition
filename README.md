@@ -10,7 +10,7 @@ to be more specific, Handwritten Recognition. Furthermore, OpenCV library is als
 ## Demo
 ![Recommendation App](https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/Screenshot%202022-10-12%20211355.png)
 ## How backpropagation work in this one-hidden layer MLP?
-![Recommendation App]([https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/Screenshot%202022-10-12%20211355.png](https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/12_12.png))
+![Recommendation App](https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/12_12.png)
 
 
 
