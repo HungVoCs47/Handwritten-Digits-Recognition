@@ -14,9 +14,9 @@ to be more specific, Handwritten Recognition. Furthermore, OpenCV library is als
 ## MODEL PERFORMANCE
 <img src="https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/1123.png" width="500" height="300">
 <img src="https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/123213.png" width="500" height="300">
-> Loss function coverge after each epoch<br />
-> The training accuracy: 97.8<br />
-> The testing accuracy: 95.83<br />
+* Loss function coverge after each epoch<br />
+* The training accuracy: 97.8<br />
+* The testing accuracy: 95.83<br />
 
 
 
