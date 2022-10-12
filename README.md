@@ -13,6 +13,8 @@ to be more specific, Handwritten Recognition. Furthermore, OpenCV library is als
 ![Recommendation App](https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/12_12.png)
 ## MODEL PERFORMANCE
 ![Recommendation App](https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/1123.png)
+![Recommendation App](https://github.com/HungVoCs47/Handwritten-Digits-Recognition/blob/main/image/123213.png)
+
 
 
 
